@@ -1,6 +1,6 @@
 <h2> Hi, 👋 I'm ART🗿<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="giphy.gif" width="400">
-<p><em>Lead Programmer at fastrack 🔭 </a><img src="https://media0.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif?cid=ecf05e47ei4y7irkcmwjqsevx42bh2fakf436zer7ivam3ag&rid=giphy.gif" width="30">
+<p><em>Lead Programmer at fastrack🔭 </a><img src="https://media0.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif?cid=ecf05e47ei4y7irkcmwjqsevx42bh2fakf436zer7ivam3ag&rid=giphy.gif" width="30">
 </em></p>
 
 [![GitHub ART ](https://img.shields.io/github/followers/Tomyzon1728?label=follow&style=social)](https://github.com/Tomyzon1728)
@@ -23,10 +23,5 @@
 
  
 
-<!--
-# Hi, I'm ART🗿
-![](moi.gif)
 
-
--->
 
