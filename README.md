@@ -5,10 +5,8 @@
 
 [![GitHub ART ](https://img.shields.io/github/followers/Tomyzon1728?label=follow&style=social)](https://github.com/Tomyzon1728)
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on any project 
-- 🤔 I’m looking for help with functioning  Teams 
+- 🔭 I’m currently working on myself 
+- 👯 I’m looking to collaborate on any project
 - 📫 How to reach me:
  ajayitomisin1728@gmail.com
 - ⚡ Fun fact: 
