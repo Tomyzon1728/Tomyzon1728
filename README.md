@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on myself 
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me:
-      •ajayitomisin1728@gmail.com
+      • ajayitomisin1728@gmail.com
 - ⚡ Fun fact: 
  I'm a:
-      •multi-level programmer
-      •Electronics Electrical Engineer 
+      • Multi-level programmer 👨🏽‍💻
+      • Electronics Electrical Engineer 👷 
  
  <p align='center'>
   <img width="30"  align='left' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif">
