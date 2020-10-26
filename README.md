@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me:
       • ajayitomisin1728@gmail.com
+      • a_tomisin@yahoo.com
 - ⚡ Fun fact: I'm a:
 - Multi-level programmer 👨🏽‍💻
 - Electronics/Electrical Engineer 👷 
