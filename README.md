@@ -37,8 +37,6 @@
 
 ------
 
-zap:GitHub Stats
-
 ![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Tomyzon1728&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomyzon1728&layout=compact&theme=radical)](https://github.com/Tomyzon1728/)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomyzon1728&repo=Email_Sender&theme=radical)
