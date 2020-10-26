@@ -14,6 +14,7 @@
 - Multi-level programmer 👨🏽‍💻
 - Electronics/Electrical Engineer 👷 
 - First 7Days of Code winner @DigiTech 📌
+
 # Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -37,10 +38,17 @@
 
 ------
 
+
+
 ![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Tomyzon1728&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomyzon1728&layout=compact&theme=radical)](https://github.com/Tomyzon1728/)
 
+
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomyzon1728&repo=Email_Sender&theme=radical)
+
+
 ------
+
  <p align='center'>
   <img width="30"  align='left' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
