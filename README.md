@@ -2,7 +2,7 @@
 <img align='right' src="code.gif" width="400">
 <p><em>Lead Programmer at fastrack🔭 </a><img src="https://media0.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif?cid=ecf05e47ei4y7irkcmwjqsevx42bh2fakf436zer7ivam3ag&rid=giphy.gif" width="30">
 </em></p>
-------------------
+
 [![GitHub ART ](https://img.shields.io/github/followers/Tomyzon1728?label=follow&style=social)](https://github.com/Tomyzon1728)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 - 🔭 I’m currently working on myself 
@@ -35,14 +35,14 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
---------------------
+-----------
 
 zap: GitHub Stats
 
 ![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Tomyzon1728&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomyzon1728&layout=compact&theme=radical)](https://github.com/Tomyzon1728/)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomyzon1728&repo=Email_Sender&theme=radical)
--------------
+-----------
  <p align='center'>
   <img width="30"  align='left' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
