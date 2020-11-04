@@ -1,4 +1,4 @@
-<h2> Hi, 👋 I'm ART🗿<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2><i>Hi, 👋 I'm ART🗿</i><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="code.gif" width="400">
 <p><em>Lead Programmer at fastrack🔭 </a><img src="https://media0.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif?cid=ecf05e47ei4y7irkcmwjqsevx42bh2fakf436zer7ivam3ag&rid=giphy.gif" width="30">
 </em></p>
@@ -20,7 +20,7 @@
 ![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Tomyzon1728&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomyzon1728&layout=compact&theme=radical)](https://github.com/Tomyzon1728/)
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomyzon1728&repo=Email_Sender&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomyzon1728&repo=Score_Board&theme=radical)
 
 
 ------
