@@ -1,22 +1,24 @@
-<h2><i>Hi, 👋 I'm ART🗿</i><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1><i>Hi, 👋 I'm ART🗿</i><img align='right' src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="code.gif" width="400">
 <p><em>Lead Programmer at fastrack🔭 </a><img src="https://media0.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif?cid=ecf05e47ei4y7irkcmwjqsevx42bh2fakf436zer7ivam3ag&rid=giphy.gif" width="30">
 </em></p>
 
 [![GitHub ART ](https://img.shields.io/github/followers/Tomyzon1728?label=follow&style=social)](https://github.com/Tomyzon1728)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-- 🔭 I’m currently working on myself 
+
+<p align ='left' >- 🔭 I’m currently working on myself 
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me:
-      • ajayitomisin1728@gmail.com
-      • a_tomisin@yahoo.com
+      <mark><em>• ajayitomisin1728@gmail.com</em></mark>
+      <mark><em>• a_tomisin@yahoo.com</em></mark>
 - ⚡ Fun fact: I'm a:
 - Multi-level programmer 👨🏽‍💻
 - Electronics/Electrical Engineer 👷 
 - First 7Days of Code winner @DigiTech 📌
+</p>
 
 
-# GitHub Statistics  
+<h2><i>GitHub Statistics </i><h2> 
 ![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Tomyzon1728&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomyzon1728&layout=compact&theme=radical)](https://github.com/Tomyzon1728/)
 
 
@@ -24,7 +26,7 @@
 
 
 ------
-# Languages and Editors
+<h3><i>Languages and Editors</i></h3>
 <p align='center'>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
