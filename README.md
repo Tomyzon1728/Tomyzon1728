@@ -11,10 +11,8 @@
       -🔭 I’m currently working on myself 
       - 👯 I’m looking to collaborate on any project
       - 📫 How to reach me:
-      <pre>
       <b><em>• ajayitomisin1728@gmail.com</em></b>
       <b><em>• a_tomisin@yahoo.com</em></b>
-      </pre>
       - ⚡ Fun fact: I'm a:
       - Multi-level programmer 👨🏽‍💻
       - Electronics/Electrical Engineer 👷 
