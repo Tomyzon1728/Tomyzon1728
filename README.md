@@ -6,19 +6,24 @@
 [![GitHub ART ](https://img.shields.io/github/followers/Tomyzon1728?label=follow&style=social)](https://github.com/Tomyzon1728)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<p align ='left' >- 🔭 I’m currently working on myself 
-- 👯 I’m looking to collaborate on any project
-- 📫 How to reach me:
-      <mark><em>• ajayitomisin1728@gmail.com</em></mark>
-      <mark><em>• a_tomisin@yahoo.com</em></mark>
-- ⚡ Fun fact: I'm a:
-- Multi-level programmer 👨🏽‍💻
-- Electronics/Electrical Engineer 👷 
-- First 7Days of Code winner @DigiTech 📌
+<p align ='left' >
+      <pre>
+      -🔭 I’m currently working on myself 
+      - 👯 I’m looking to collaborate on any project
+      - 📫 How to reach me:
+      <pre>
+      <b><em>• ajayitomisin1728@gmail.com</em></b>
+      <b><em>• a_tomisin@yahoo.com</em></b>
+      </pre>
+      - ⚡ Fun fact: I'm a:
+      - Multi-level programmer 👨🏽‍💻
+      - Electronics/Electrical Engineer 👷 
+      - First 7Days of Code winner @DigiTech 📌
+      </pre>
 </p>
 
 
-<h2><i>GitHub Statistics </i><h2> 
+ # GitHub Statistics  
 ![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Tomyzon1728&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomyzon1728&layout=compact&theme=radical)](https://github.com/Tomyzon1728/)
 
 
@@ -26,7 +31,7 @@
 
 
 ------
-<h3><i>Languages and Editors</i></h3>
+# Languages and Editors
 <p align='center'>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
