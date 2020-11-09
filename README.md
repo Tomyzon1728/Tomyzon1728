@@ -11,7 +11,7 @@
       -🔭 I’m currently working on myself 
       - 👯 I’m looking to collaborate on any project
       - 📫 How to reach me:
-      <b><em>• ajayitomisin1728@gmail.com</em></b>
+      <b><em><a href="ajayitomisin1728@gmail.com">• ajayitomisin1728@gmail.com</a></em></b>
       <b><em>• a_tomisin@yahoo.com</em></b>
       - ⚡ Fun fact: I'm a:
       - Multi-level programmer 👨🏽‍💻
